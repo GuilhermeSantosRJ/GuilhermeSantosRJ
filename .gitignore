@@ -1,0 +1,24 @@
+﻿# Claude Code
+.claude/
+*.claudeignore
+
+# Cowork
+.cowork/
+
+# Node / npm (se usar MCP servers)
+node_modules/
+npm-debug.log*
+
+# Python (se usar scripts locais)
+__pycache__/
+*.pyc
+.venv/
+*.env
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.log
